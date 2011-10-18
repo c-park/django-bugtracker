@@ -1,0 +1,5 @@
+Simple BugTracker app for Django Web Framework
+
+Requirements:
+Django 1.2+
+django-tagging - sudo pip install django-tagging
